@@ -1,37 +1,47 @@
-﻿# Hi there, I’m Shashank Gangwar 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Shashank Gangwar </h1>
+<h3 align="center">Software Developer | REACT • Node.js • Express • MongoDB • PostgreSQL | Learning DevOps & Cloud</h3>
 
-I’m a backend developer focused on building scalable APIs, services, and database-driven applications using Node.js, Express, MongoDB, PostgreSQL, Docker, and cloud basics.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 🚀 About Me
-- 🔧 Building backend systems and REST APIs
-- 🌱 Learning DevOps, Docker, and cloud deployment
-- 📫 Reach me at shashank4230g@gmail.com
-
-## 🛠️ Tech Stack
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank9552&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shashank9552&theme=nightowl&radius=10" alt="Shashank Gangwar's Activity Graph" />
+</p>
+
+<h3>🛠️ Languages & Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,docker,git,linux&perline=10" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank9552&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/shashank9552">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashank9552&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/shashank-gangwar-6856a3335/)
-- [Instagram](https://www.instagram.com/_its.shashank30/)
-- [WhatsApp](https://wa.me/918860954690)
-- [Email](mailto:shashank4230g@gmail.com)
+<h3>🔗 Connect with Me</h3>
 
-## 📈 Activity
+<p align="center">
+  <a href="https://wa.me/918860954690" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shashank4230g@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_its.shashank30/?__pwa=1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shashank-gangwar-6856a3335/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-[![Shashank's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashank9552&theme=tokyo-night)](https://github.com/shashank9552)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+
